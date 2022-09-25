@@ -1,4 +1,4 @@
-# BestFriendsNetwork
+# BestFriendsNetwork(Officially on the AppStore)
 
 ## A less toxic social media experience
 
@@ -51,3 +51,6 @@ BestFriends puts you together with your most trusted friends to celebrate your g
 
 # [My Horizons]
 - This feature is designed so that users can work on dreams and goals together to provide motivation to each other and have a more enjoyable experience.
+
+# Website Link - https://socialtechlabs.com/
+
